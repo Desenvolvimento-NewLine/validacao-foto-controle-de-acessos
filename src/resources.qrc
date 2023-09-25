@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>icons/camera-50.png</file>
+        <file>icons/mais-50.png</file>
+        <file>icons/salvar-50.png</file>
+    </qresource>
+</RCC>
