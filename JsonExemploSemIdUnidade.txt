@@ -1,0 +1,21 @@
+{
+	"criarUsuario": false,
+	"nome": "Strimg",
+	"sobrenome": "String",
+	"matricula": "String",
+	"dataNascimento": "01/01/1970",
+	"sociedade": "PESSOA_FISICA",
+	"documentosDTO": [
+		{
+			"tipoDocumento": "CPF",
+			"documento": "12345678912"
+		}
+	],
+	"email": "",
+	"nomeTratamento": "",
+	"telefone": "62999999999",
+	"telefone2": "",
+	"profissao": "Aluno",
+	"grupoPessoa": "Aluno",
+	"fotoFacial": "Foto Base64 com as especificações descritas nas documentações"
+}
